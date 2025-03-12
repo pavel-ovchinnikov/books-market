@@ -22,7 +22,7 @@ pwd: admin
 
 Цель - сделать рабочую базу данных для торговли книгами.
 Схема v1:
-![image](./doc/img/Scheme.png)
+![image](./doc/img/scheme.png)
 
 ### Задание 1
 Создать таблицу `auther` и сохранить код в `src/schema.sql`
