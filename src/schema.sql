@@ -5,7 +5,8 @@ CREATE TABLE IF NOT EXISTS author
 (
 -- This coloumns of the table
     id uuid,
-    name text
+	name text,
+	surname text
 );
 
 
