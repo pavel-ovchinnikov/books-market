@@ -23,4 +23,10 @@ CREATE TABLE IF NOT EXISTS book_publishing_house
     book_id uuid
 );
 
+CREATE TABLE IF NOT EXISTS book
+(
+    id uuid,
+    name text,
+    year date
+);
 END;
